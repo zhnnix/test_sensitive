@@ -1,0 +1,15 @@
+-----BEGIN CERTIFICATE-----
+MIIHSTCCBTGgAwIBAgIJAMnN0+nVfSPOA0GCSqGSIb3DIcGs0dERpcTZEBQUAMIGsMQswCQYD
+AP7Zap88MQ8oAgGcBvod7bkixTgm2E5P7KN/ed5GIaGHd48HCJqiZ8ntxPjzxmKfFGBI/5rso
+AKChOBZmLqdMNTxXJhLynSC34MCN3bkixTgm2E5P7KN/ed5GISIb3DQEBBQUAMIGsvDzKYC3xm
+-----END CERTIFICATE-----
+
+
+zoe@CLOUD8!
+
+$.fn.passwordbox.defaults=$.extend({},$.fn.textbox.defaults,{passwordChar:\"%u25CF\",checkInterval:200,lastDelay:500,revealed:false,showEye:true,inputEvents:{focus:_543,blur:_547},val:function(_550)
+
+
+password: "ze_2017!#"
+
+eyJhbGciOiJSUzI1NiJ9.eyJqdGkiOAS574D465A7FN0OjgwODAvY2FzL29pZGMiLCJhdWQiDAS35G6EW5SDF5FzI3NDMsImlhdCI6MTUyMjEzMjc0MywibmJmIjoxNTIyMLCklasjdiurinfalFScFJOM0VLkIcGs0dERpcTZRWEJObUEiLCJwcmVmZXJyZWRfdXNlcm5hbWNlcnZpY2UifQ.57AS7DA8S7D
