@@ -1,0 +1,66 @@
+{
+  "data": [
+    {
+      "password": "8ELabnj5TUAS/X+SlpMpoDF2/q6X/ib7+6Kn/x3xbyN4tA=="
+    },
+    {
+      "secretKey": "JFi/tVvKF/aFzCZoJJV4skpoKLhQ5A7cU4cdso"
+    },
+    {
+      "Context": "password\": \"zoee@123\""
+    },
+    {
+      "Context": "\"secretKey\": \"dtPHNxxFPb#3HOPXqoPHNxxVGOl56d3MldGdsMsa6PHNxzhNzpl="
+    },
+
+    {
+      "carrier": "Asia/Singapore"
+    },
+
+    {
+      "Context": "password: Huawei@123"
+    },
+
+    {
+      "Context": "secretKey: dtPHNxxFPb#3HOPXqoPHNxxVGOl56d3FASdsMsa6PHNxxk="
+    }
+
+  ],
+  "status": true,
+
+  "password1": "12AaBb!#",
+
+  "password2": "1qaz@#$_WSX",
+
+  "secret": "1qaz@WSX",
+
+  "secret_key": "1qw2#ER$",
+
+  "app_secret": "321_emegnahC",
+
+  "secret_app_pwd": "3er4#ER$",
+
+  "secret_app_key": "3parzoedmz",
+
+  "secret_data_key": "3pazoeeata",
+
+  "secret_token_key" : "7%Uk@szeeo4NiE",
+
+  "secret_salt": "79y52zooex@R",
+
+
+  "test_key": "test_key",
+
+  "example_password": "example",
+
+  "test_token": "abcdefgmnbvcxzlkjhgfdsapoiuytrewq1234567890",
+
+  "test_password": "test_password",
+
+  "test2_password": "11111111",
+
+  "test3_password": "12345678",
+
+  "app_code": "963852741"
+
+}
