@@ -17,5 +17,7 @@ public class import_test {
     String entropyPassword = ENTROPY_PASSWORD;
 
     String password = TestConfig.PASSWORD;
+    
+    String fb_t = "EAAYLJvFkfAYBAIvLX7nj1tnIOCTMx45zwMoEYBBZCWv8IqGIE1zuJbSDrr6kdowyZB8KdFedJknnpZCNmFi9zmDpnsU4NssqBwr1fXU6AcpkGq2bGpJSbBMAAHQbe8iqSnMmwnBoT0GAZC8LxNK6AvdHDhJkVHk8KzhGo1w1oAZDZD";
 
 }
