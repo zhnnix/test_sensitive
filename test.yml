@@ -3,3 +3,8 @@ one test of sensitive detection
 
 - name: Gitleaks
   uses: gitleaks/gitleaks-action@v2.3.1
+  
+
+- name: TruffleHog OSS
+  uses: trufflesecurity/trufflehog@v3.31.3
+
