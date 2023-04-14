@@ -5,6 +5,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+import java.nio.charset.StandardCharsets;
+import java.security.MessageDigest;
+import java.security.NoSuchAlgorithmException;
+
 @SpringBootApplication
 @RestController
 public class DemoApplication {
@@ -44,5 +48,17 @@ public class DemoApplication {
         //    	URL records OpenTSDB HTTP API urls without the OpenTSDB host endpoint.
         //    	URL records OpenTSDB BASE64 API urls without the OpenTSDB host endpoint.
     }
+    
+    
+    public static String getSHA256(String str) throws NoSuchAlgorithmException {
+    MessageDigest digest = MessageDigest.getInstance("SHA-256");
+    byte[] encodedHash = digest.digest(str.getBytes(StandardCharsets.UTF_8));
+    StringBuilder hexString = new StringBuilder(2 * encodedHash.length);
+    for (byte b : encodedHash) {
+        String hex = String.format("%02x", b);
+        hexString.append(hex);
+    }
+    return hexString.toString();
+}
 
 }
